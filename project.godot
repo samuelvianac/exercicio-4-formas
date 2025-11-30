@@ -1,0 +1,9 @@
+[application]
+
+config/name="Exercicio04_Iluminacao_Dinamica"
+run/main_scene="res://IluminacaoDinamica.tscn"
+
+[display]
+
+window/size/width=1024
+window/size/height=600
